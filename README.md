@@ -1,5 +1,5 @@
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Hello+World!;Always%20learning%20new%20things">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=433&height=75&lines=Welcome+to+my+GitHub+profile...">
 </p>
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
@@ -29,7 +29,10 @@
 ## Most Used Languages 📚
 <br>
 <p align='center'>
+<!--
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AltherLago&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+-->
+  <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltherLago&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
 </p>
 <p align='center'>
 <h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
